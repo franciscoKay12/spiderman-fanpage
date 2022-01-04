@@ -1,0 +1,14 @@
+.backgrounvillans{
+    background-image: url("./background/backgroundVillans.jpg");
+    background-size: cover;
+    background-clip: border-box;
+    background-attachment: fixed;
+ }
+ 
+ .col-sm-8{
+     color: black;
+ }
+ 
+ .col-sm-3{
+     color: black;
+ }

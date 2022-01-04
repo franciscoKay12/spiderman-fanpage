@@ -1,0 +1,33 @@
+.flex-column{
+  align-items: center;
+}
+
+h3{
+  color: yellow;
+}
+
+p{
+  color: black;
+}
+
+button {
+    min-width: 100px;
+    padding: 16px 32px;
+    border-radius: 4px;
+    border: none;
+    background: #141414;
+    color: #fff;
+    font-size: 24px;
+    cursor: pointer;
+  }
+  
+  .close{
+    min-width: 90px;
+    padding: 120px 90px;
+    border-radius: 4px;
+    border: none;
+    background: #141414;
+    color: #fff;
+    font-size: 100px;
+    cursor: pointer;
+  }
